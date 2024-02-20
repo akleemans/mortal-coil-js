@@ -13,10 +13,10 @@ or [Hack The Web](https://hack.arrrg.de/mortal-coil/).
 ## Features
 
 * Rendering and displaying a level
-* Displaying node states like visited/unvisited, start/end node
-* Displaying neighbor edges
 * A naive brute forcer
-* Step-by-step navigation or
+* (Planned) Displaying node states like visited/unvisited, start/end node
+* (Planned) Displaying neighbor edges
+* (Planned) Step-by-step navigation
 
 ## Get started
 
