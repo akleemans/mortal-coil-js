@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "mapRoot": "./src/",
+    "module": "none",
+    "noImplicitAny": true,
+    "outFile": "./build.js",
+    "preserveConstEnums": true,
+    "moduleResolution": "node",
+    "removeComments": true,
+    "rootDir": "./src/",
+    "sourceMap": true,
+    "sourceRoot": "./src/",
+    "target": "ES6"
+  }
+}
